@@ -11,8 +11,9 @@ var expensiveStocks = getStocksOver([
 ],
 150.00);
 
-console.log(JSON.stringify(expensiveStocks));
+xxxconsole.log(JSON.stringify(expensiveStocks));
 
+// 
 // Array.prototype.filter = function(predicate) {
 //   var results = [];
 
@@ -22,3 +23,4 @@ console.log(JSON.stringify(expensiveStocks));
 //     }
 //   })
 // };
+

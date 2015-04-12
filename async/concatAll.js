@@ -28,3 +28,5 @@ var stocks =  exchanges.concatAll();
 stocks.forEach(function(stock) {
   console.log(JSON.stringify(stock));
 });
+
+// simple comment here with full code description
